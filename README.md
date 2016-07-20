@@ -13,3 +13,5 @@ These animations have been finished so far:
 [2]: https://raw.githubusercontent.com/jpardogo/GoogleProgressBar/dev/art/GoogleDices.gif
 [3]: https://raw.githubusercontent.com/jpardogo/GoogleProgressBar/master/art/NexusRotationCross.gif
 [4]: https://raw.githubusercontent.com/MewX/google-progress-bar/gpb-chrome/art/ChromeFloatingCircles.gif
+
+![](https://github.com/Qiang3570/DragLayoutExpand/blob/master/sample.gif)
